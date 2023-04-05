@@ -4,7 +4,7 @@ body {
     background-attachment: fixed;
     background-size:100%;
     background-color: #000;
-    color: black;
+    color: lime;
     text-align: center;
     top: 0;
 }
@@ -13,13 +13,13 @@ body {
 }
 
 #menu {/*Formatação do menu*/
-	background: #c5c5c5b2;
+	background: #00FF00;
 	/*border: 1px solid red; Borda sólida na div*/
 	padding: 18px; display: flex /*Espaçamento interna div*/
 }
 
 #conteudo {
-	background: #c5c5b2;
+	background: #00FF00;
 	padding: 10px;
 }
 
@@ -30,7 +30,7 @@ body {
 }
 #rodape {
 	text-align: center;
-	color: #FFFFFF;
+	color: #00FF00F;
 }
 
 .img-campanha {
@@ -49,19 +49,19 @@ a { /*Formatação dos links*/
 }
 
 h1 {
-	color: #828271;
+	color: #00FF00;
 	font-size: 1.2em;
 }
 h3 {
-	color: #828271;
+	color: #00FF00;
 	font-size: 1.2em;
 	}
 h4 {
-	color: #828271;
+	color: #00FF00;
 	font-size: 1.2em;
 }
 #planejamento {
-	      background: #556b2f;
+	      background: #00FF00;
 	      padding: 10px;
 	      opacity : 0.6;
 }	
